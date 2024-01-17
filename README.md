@@ -1,2 +1,2 @@
 # dante
-About my fat cat
+About my cat
