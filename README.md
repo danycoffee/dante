@@ -1,7 +1,7 @@
 # dante
 About my cat
-My favorite cat is Garfield
-Dany's favorite dog is: 
+
+My favorite cat is Danty 
 
 git clone: Copia del repositorio.
 
