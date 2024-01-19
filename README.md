@@ -12,3 +12,6 @@ git log: Muestra el historial del archivo.
 git add: Agrega el archivo a la lista archivos.
 
 git config: Configura datos de git a nivel global-individual.
+
+git push: Puchear datos al interneh
+
