@@ -10,3 +10,5 @@ git commit: Agrega el cambio realizado.
 git log: Muestra el historial del archivo.
 
 git add: Agrega el archivo a la lista archivos.
+
+git config: Configura datos de git a nivel global-individual.
