@@ -1,5 +1,7 @@
 # dante
 About my cat
+My favorite cat is Garfield
+
 
 git clone: Copia del repositorio.
 
