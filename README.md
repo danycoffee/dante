@@ -15,5 +15,6 @@ git add: Agrega el archivo a la lista archivos.
 
 git config: Configura datos de git a nivel global-individual.
 
-git push: Puchear datos al interneh
+git push: Sube los datos a internet.
 
+git pull: Adquiere los cambios mas nuevos del repositorio.
