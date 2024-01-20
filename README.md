@@ -18,3 +18,5 @@ git config: Configura datos de git a nivel global-individual.
 git push: Sube los datos a internet.
 
 git pull: Adquiere los cambios mas nuevos del repositorio.
+
+git checkout: Para ver diferentes commits.
